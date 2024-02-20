@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alexandra Ramirez ✨</h1>
+<h1 align="center">✨ Hi, I'm Alexandra Ramirez ✨</h1>
 <h3 align="center">I'm a tech passionate about creating intuitive digital experiences. I love spending time on designing visually appealing and user-friendly interfaces.</h3>
 
 - 📚 I’m currently studying at [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/)
@@ -17,5 +17,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alexandra dayanna ramirez diaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra dayanna ramirez diaz" height="30" width="40" /></a>
+<a href="linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra dayanna ramirez diaz" height="30" width="40" /></a>
 </p>
