@@ -6,6 +6,7 @@
 - ✍ I’m currently learning **Angular 🦾**
 - 😹 Fun fact: **I really like to design my work and I take my time to convince me 🤔**
 
+<br>
 <h3 align="center">Programming languages:</h3><p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -24,14 +25,14 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </p>
 
-<br><br>
+<br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandraramirezz&show_icons=true&locale=en&layout=compact" alt="alexandraramirezz" /></p>
 <br>
 <h3 align="center">Github stats:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandraramirezz&show_icons=true&locale=en" alt="alexandraramirezz" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandraramirezz&" alt="alexandraramirezz" /></p>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra dayanna ramirez diaz" height="30" width="40" /></a>
