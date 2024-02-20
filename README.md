@@ -36,11 +36,11 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandraramirezz&show_icons=true&locale=en&layout=compact" alt="alexandraramirezz" /></p>
 <br>
+
 <h3 align="center">Github stats:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandraramirezz&show_icons=true&locale=en" alt="alexandraramirezz" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandraramirezz&" alt="alexandraramirezz" /></p>
-<br>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra dayanna ramirez diaz" height="30" width="40" /></a>
