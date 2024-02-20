@@ -24,11 +24,12 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> </p>
 
+<br><br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandraramirezz&show_icons=true&locale=en&layout=compact" alt="alexandraramirezz" /></p>
-
+<br>
 <h3 align="center">Github stats:</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandraramirezz&show_icons=true&locale=en" alt="alexandraramirezz" /></p>
-
+<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandraramirezz&" alt="alexandraramirezz" /></p>
 
 <h3 align="center">Connect with me:</h3>
