@@ -1,47 +1,20 @@
-<h1 align="center">✨ Hi, I'm Alexandra Ramirez ✨</h1>
-<h3 align="center">I'm a tech passionate about creating intuitive digital experiences. I love spending time on designing visually appealing and user-friendly interfaces.</h3>
 
-- 📚 I’m currently studying at [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/)
-- 🍳 How to reach me **ramirezdiazalexandrad@gmail.com**
-- ✍ I’m currently learning **Angular 🦾**
-- 😹 Fun fact: **I really like to design my work and I take my time to convince me 🤔**
+## 💫 About Me:
+✍ I am currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces using Angular.<br><br>
+🔔 I'm looking to collaborate on frontend development projects that focus on user experience using Angular and TypeScript.<br><br>
+📚 I am looking for help to expand my basic knowledge in backend development, particularly with SQL, and improve my skills in agile methodologies and process mining.<br><br>
+🌱 I am currently learning techniques related to the Angular framework and improving my backend skills with SQL and Python.<br><br>
+💬 Ask me about frontend development or my studies at the [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/) and my passion for creating user-centered designs.<br><br>
+😹 Fun fact: I love to meticulously design my projects, making sure they are functional and visually appealing because I am passionate about UI and UX design.<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ramirezdiazalexandrad@gmail.com)
 
-<br>
-<p align="center">
+## 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Uizard](https://img.shields.io/badge/Uizard-5A67D8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABOklEQVQ4jZWSS0rEQRCFv7Ozo6AIbqKOIhZBQVZ0KwiAvETkExomL2B3Kx4QeiAStKpaCI2gtP+AOMRcpm7n53c3tpog4hW5kF7uP3zz/zAzT4y5EXBWxVifT1YxzgQbqqzRweLlLMYXAMMysE4mE6DxDzhODc1wO5EKNKzY8OANvs+JfA3Uj8yK3uH11Efa2IiS93Is0UBMc9GAZGV5Bt9Y8ZoMC0tFQhAjOhfoAp6nRgAGhCnEkNxGIuq44uSAK4H6UtFksMuI60eKZYjrxAQAy0ipEc6so9Oa+0GrAaIVoFlKLEPOhFE9rAqB/EvWF7uEMDygAnbSVnJ3ghcs4r4OukPqtCXFY4l3A+3BZV8ka3C89MAE+qd6FE3TApeF9A1XXF+xNkJAFbdTkBgk8zKhfE+IfBGBdsO/ry/Wu//nNQAAAABJRU5ErkJggg==&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<div>
-<h3 align="center">Programming languages:</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</p> </div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AlexandraRamirezz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-<h3 align="center">Frontend development:</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</p> </div>
-
-<div>
-<h3 align="center">Dev tools:</h3>
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p> </div>
-</p>
-
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandraramirezz&show_icons=true&locale=en&layout=compact" alt="alexandraramirezz" /></p>
-<br>
-
-<h3 align="center">Github stats:</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandraramirezz&show_icons=true&locale=en" alt="alexandraramirezz" /></p>
-<br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra dayanna ramirez diaz" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AlexandraRamirezz&icon=4&color=10)](https://visitcount.itsvg.in)
