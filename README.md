@@ -19,5 +19,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  ![](https://github-profile-trophy.vercel.app/?username=AlexandraRamirezz&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexandraRamirezz&icon=4&color=10)](https://visitcount.itsvg.in)
