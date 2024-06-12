@@ -20,9 +20,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=AlexandraRamirezz&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-</div>
+![](https://github-profile-trophy.vercel.app/?username=AlexandraRamirezz&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexandraRamirezz&icon=4&color=10)](https://visitcount.itsvg.in)
