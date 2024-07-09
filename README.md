@@ -1,10 +1,10 @@
 ## 💫 About Me:
-✍ I am currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces using Angular.<br><br>
-🔔 I'm looking to collaborate on frontend development projects that focus on user experience using Angular and TypeScript.<br><br>
+✍ I am currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces.<br><br>
+🔔 I'm looking to collaborate on frontend development projects using Angular.<br><br>
 📚 I am looking for help to expand my basic knowledge in backend development.<br><br>
 🌱 I am currently learning techniques related to the Angular framework and improving my backend skills with Java.<br><br>
-💬 Ask me about frontend development or my studies at the [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/) and my passion for creating user-centered designs.<br><br>
-😹 Fun fact: I love to meticulously design my projects, making sure they are functional and visually appealing because I am passionate about UI and UX design.<br><br>
+💬 Ask me about frontend development or my studies at the [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/).<br><br>
+😹 Fun fact: I love to meticulously design my projects because I am passionate about UI and UX design.<br><br>
 🍳 How to reach me: **ramirezdiazalexandrad@gmail.com** or on [LinkedIn as Alexandra Dayanna Ramirez Diaz](https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252)
 
 ## 💻 Tech Stack:
