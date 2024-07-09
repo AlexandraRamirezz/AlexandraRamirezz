@@ -11,8 +11,8 @@
 
 ## 📊 GitHub stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraRamirezz&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="154" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraRamirezz&theme=dark&hide_border=false" alt="GitHub Streak Stats" height="154" />
 </div>
 
 ## 🏆 GitHub trophies
