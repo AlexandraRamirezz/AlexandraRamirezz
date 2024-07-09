@@ -1,10 +1,9 @@
 ## 🤳 About me:
-👾 I am currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces.<br>
-🔔 I'm looking to collaborate on frontend development projects using Angular.<br>
-📚 I am looking for help to expand my basic knowledge in backend development.<br>
-🌱 I am currently learning techniques related to the Angular framework and improving my backend skills with Java.<br>
-💬 Ask me about frontend development or my studies at the [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/).<br>
-😹 Fun fact: I love to meticulously design my projects because I am passionate about UI and UX design.<br>
+📚 I'm currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces.<br><br>
+🔔 I'm looking to collaborate on frontend development projects using Angular.<br><br>
+🌱 I'm currently learning techniques related to the Angular framework and improving my backend skills with Java.<br><br>
+💬 Ask me about frontend development or my studies at the [Peruvian University of Applied Sciencies (UPC)](https://www.upc.edu.pe/).<br><br>
+😹 Fun fact: I love to meticulously design my projects because I'm passionate about UI and UX design.<br><br>
 🍳 How to reach me: **ramirezdiazalexandrad@gmail.com** or on [LinkedIn as Alexandra Dayanna Ramirez Diaz](https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252)
 
 ## 💻 Tech stacks:
@@ -13,10 +12,7 @@
 ## 📊 GitHub stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraRamirezz&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraRamirezz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub trophies
