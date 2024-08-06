@@ -1,9 +1,10 @@
 ## 🤳 About me:
 📚 I'm currently working on creating intuitive digital experiences with easy-to-use and visually appealing interfaces.<br>
-🔔 I'm looking to collaborate on frontend development projects using Angular.<br>
+🔔 I'm looking to collaborate on frontend development projects.<br>
 🌱 I'm currently learning about the React framework and improving my backend skills with Java.<br>
 😹 Fun fact: I love to meticulously design my projects because I'm passionate about UI and UX design.<br>
-🍳 How to reach me: **ramirezdiazalexandrad@gmail.com** or on [LinkedIn as Alexandra Dayanna Ramirez Diaz](https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252)
+🍳 How to reach me: **ramirezdiazalexandrad@gmail.com** or on [LinkedIn as Alexandra Dayanna Ramirez Diaz](https://www.linkedin.com/in/alexandra-dayanna-ramirez-diaz-59bb99252)<br>
+⭐ For more detailed information, please visit my portfolio: [portfolio-alexandra-ramirezz.vercel.app](https://portfolio-alexandra-ramirezz.vercel.app/)
 
 ## 💻 Tech stacks:
 <p align="center">
